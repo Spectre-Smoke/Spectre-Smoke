@@ -1,1 +1,1 @@
-# -special-Spectre-Smoke
+Spectre-Smoke
