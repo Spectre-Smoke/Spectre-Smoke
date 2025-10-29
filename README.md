@@ -45,5 +45,5 @@ Aktuell: Linux-Lernprojekt & Home-Server (AMP), kleine Tools/Skripte.
 ---
 
 <p align="center">
-  <sub>Hinweis: Die Badges oben verlinken auf offizielle Seiten/Docs (Mint, Ubuntu, Bash, AMP, Bedrock, systemd, cron, rsync, tmux).</sub>
+  .</sub>
 </p>
