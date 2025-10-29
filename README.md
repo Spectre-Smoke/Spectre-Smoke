@@ -25,7 +25,7 @@ Aktuell: Linux-Lernprojekt & Home-Server (AMP), kleine Tools/Skripte.
 **Games/Server:** AMP, Bedrock, 7 Days to Die  
 **Web/Tools:** ffmpeg, Netlify
 
-### 📈 Stats (optional)
+### 📈 Stats 
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Spectre-Smoke&show_icons=true&theme=dark&cache_seconds=21600" />
 </p>
