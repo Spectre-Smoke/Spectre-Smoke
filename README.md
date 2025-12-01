@@ -99,9 +99,9 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 
 ### Dienste, Automatisierung & Tools
 - **systemd Notes** → <https://github.com/Spectre-Smoke/systemd-notes>  
-  Services, Timer, `journalctl`, Unit-Vorlagen, Debug-Flows.
+  Services, Timer, Unit-Vorlagen, Debug-Flows.
 - **cron Jobs Lab** → <https://github.com/Spectre-Smoke/cron-jobs-lab>  
-  Crontab-Patterns, `@reboot`, Locking, Beispiel-Skripte (inkl. `sleep-lock-demo.sh`).
+  Crontab-Patterns, Locking, Beispiel-Skripte (inkl. `sleep-lock-demo.sh`).
 - **rsync Snippets** → <https://github.com/Spectre-Smoke/rsync-snippets>  
   Backup-Profile, Pull/Push, Filter/Excludes, Bandbreiten-Limit.
 - **tmux Cheats** → <https://github.com/Spectre-Smoke/tmux-cheats>  
