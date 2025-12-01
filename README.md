@@ -54,6 +54,9 @@
 
 ---
 
+**Fokus:** nachvollziehbare Dokumentation, wiederholbare Setups (Step-by-step) und Troubleshooting-Notizen.
+
+
 ## 👋 Über mich <a id="about"></a>
 Ich bin angehender Fachinformatiker (Systemintegration) mit Fokus auf Linux, Serverbetrieb, Automatisierung und Troubleshooting.
 Ich dokumentiere Setups nachvollziehbar (Runbooks/Notizen) und arbeite gern strukturiert nach Standards.
@@ -74,10 +77,11 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 
 ## 🧰 Toolbox <a id="toolbox"></a>
 
--OS: Linux (Ubuntu, Mint)
+- Betriebssystem: Linux (Ubuntu, Mint)
 - Shell/VC: Bash, Git
 - Ops: systemd, cron, ufw, rsync, tmux
 - Homelab: AMP (Instanzen, Updates, Backups)
+
 
 ---
 
@@ -134,7 +138,7 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 
 ## 🗂️ Profile Links <a id="profiles"></a>
 
-- **Haupt-Repo (dieses Portfolio):** <https://github.com/Spectre-Smoke/Spectre-Smoke>
+- **Portfolio:** <https://github.com/Spectre-Smoke/Spectre-Smoke>
 
 ---
 
