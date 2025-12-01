@@ -103,12 +103,11 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 - **tmux Cheats** → <https://github.com/Spectre-Smoke/tmux-cheats>  
   Sessions/Windows/Panes, Copy-Mode, Mouse, kompakte `.tmux.conf`.
 
-### Game-/Server-Stack
+### Homelab / Services
 - **AMP Notes** → <https://github.com/Spectre-Smoke/amp-notes>  
   CubeCoders AMP: Instanzen, Backups, Updates, Auto-Start, Security.
 - **Bedrock Server Notes** → <https://github.com/Spectre-Smoke/bedrock-server-notes>  
-  Bedrock-Dedicated, server.properties, Whitelist/OPs, QoL-Skripte.
-
+  Dedicated Server, Konfiguration, Rechte/Whitelist, Betriebsabläufe (Updates/Backups), kleine Admin-Skripte.
 ---
 
 ## 📈 Stats <a id="stats"></a>
@@ -126,7 +125,7 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 />
 </p>
 
-> Hinweis: Karten werden von einem externen Open-Source-Dienst gerendert. Funktionen vom Web-Browser zu Web-Browser Unterschiedlich!!!
+> Hinweis: Stats-Karten werden extern gerendert (Open Source).
 > 
 > Hinweis: Inhalte sind Homelab-/Training-Beispiele. Keine Produktivdaten oder Zugangsdaten.
 
@@ -135,7 +134,6 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 
 ## 🗂️ Profile Links <a id="profiles"></a>
 
-- **GitHub:** <https://github.com/Spectre-Smoke>  
 - **Haupt-Repo (dieses Portfolio):** <https://github.com/Spectre-Smoke/Spectre-Smoke>
 
 ---
