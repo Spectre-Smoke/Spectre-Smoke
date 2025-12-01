@@ -126,7 +126,8 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 />
 </p>
 
-> Hinweis: Karten werden von einem externen Open-Source-Dienst gerendert.
+> Hinweis: Karten werden von einem externen Open-Source-Dienst gerendert. Funktionen vom Web-Browser zu Web-Browser Unterschiedlich!!!
+> 
 > Hinweis: Inhalte sind Homelab-/Training-Beispiele. Keine Produktivdaten oder Zugangsdaten.
 
 
