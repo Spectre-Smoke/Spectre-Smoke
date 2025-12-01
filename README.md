@@ -55,9 +55,10 @@
 ---
 
 ## 👋 Über mich <a id="about"></a>
+Ich bin angehender Fachinformatiker (Systemintegration) mit Fokus auf Linux, Serverbetrieb, Automatisierung und Troubleshooting.
+Ich dokumentiere Setups nachvollziehbar (Runbooks/Notizen) und arbeite gern strukturiert nach Standards.
+In meinen Repos sammle ich Praxis-Notizen, Skripte und Beispiele aus Homelab/Training.
 
-Ich bastle an Linux-Servern (Ubuntu/Mint), MC-Servern (Bedrock/Java), Cron & Automation  
-und filme mit Retro-Camcordern.  
 Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 
 ---
@@ -66,7 +67,8 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 
 - Linux Basics & CLI-Workflow  
 - Cron/systemd Timer, Backups  
-- Minecraft Bedrock/Java Server (AMP)
+- Security Basics
+- Troubleshooting
 
 ---
 
