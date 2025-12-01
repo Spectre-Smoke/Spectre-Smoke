@@ -74,11 +74,10 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 
 ## 🧰 Toolbox <a id="toolbox"></a>
 
-- **OS:** Linux Mint / Ubuntu  
-- **Shell:** Bash • **VC:** Git  
-- **Ops:** systemd, cron, ufw, rsync, tmux  
-- **Games/Server:** AMP, Bedrock, 7 Days to Die  
-- **Web/Tools:** ffmpeg, Netlify
+-OS: Linux (Ubuntu, Mint)
+- Shell/VC: Bash, Git
+- Ops: systemd, cron, ufw, rsync, tmux
+- Homelab: AMP (Instanzen, Updates, Backups)
 
 ---
 
@@ -128,6 +127,8 @@ Aktuell: **Linux-Lernprojekt & Home-Server (AMP)**, kleine Tools/Skripte.
 </p>
 
 > Hinweis: Karten werden von einem externen Open-Source-Dienst gerendert.
+> Hinweis: Inhalte sind Homelab-/Training-Beispiele. Keine Produktivdaten oder Zugangsdaten.
+
 
 ---
 
