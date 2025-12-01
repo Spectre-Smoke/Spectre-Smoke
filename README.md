@@ -5,7 +5,7 @@
 
 <h1 align="center">Spectre-Smoke</h1>
 <p align="center">
-  Linux • Servers • Minecraft • Videography
+  Linux • Servers • Infastructure • Operations • Security Basics
 </p>
 
 <p align="center">
